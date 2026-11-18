@@ -270,16 +270,17 @@ __pycache__/
 - Brayan Hernandez Martinez
 
 **Monitor Serie – sesión 1** (servidor en `10.240.24.241:5683`, peticiones a `/sensor` y payload `ON` en `/led`):
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/41542844-6f65-4eb9-af39-ef492f696355" />
 
-![Monitor Serie sesión 1](Evidencias/monitor_serie_sesion1.png)
 
 **Monitor Serie – sesión 2** (red de 2.4 GHz, IP `10.253.229.241`):
 
-![Monitor Serie sesión 2](Evidencias/monitor_serie_sesion2.png)
+<img width="992" height="761" alt="image" src="https://github.com/user-attachments/assets/d769356c-47ae-4ad5-b0a9-7d56842f2043" />
+
 
 **Cliente CoAP en VS Code** (resultados P1 a P4):
+<img width="1521" height="973" alt="image" src="https://github.com/user-attachments/assets/2dc1ea12-d230-4033-abed-0866d10231a3" />
 
-![Cliente CoAP](Evidencias/cliente_pruebas.png)
 
 **Wireshark** (pares CON/ACK, Message ID y Token):
 
@@ -287,11 +288,13 @@ __pycache__/
 
 **Wireshark – detalle de la respuesta** (ACK 2.05 Content, mismo MID y Token, payload `Temp: 29.4 C`):
 
-![Wireshark detalle](Evidencias/wireshark_detalle.png)
+<img width="955" height="432" alt="Captura de pantalla 2026-11-18 133541" src="https://github.com/user-attachments/assets/c4af74dc-d132-43fa-8a25-aace762c843c" />
+
 
 **LED externo en el GPIO 4 encendido tras `POST /led ON`:**
 
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/01004e37-5177-4e52-9664-af633a248982" />
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/8fd611c9-d1a6-4ded-a83d-06a7b8091de8" />
 
 
 ---
