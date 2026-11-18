@@ -291,7 +291,8 @@ __pycache__/
 
 **LED externo en el GPIO 4 encendido tras `POST /led ON`:**
 
-![LED encendido](Evidencias/led_encendido.jpg)
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/01004e37-5177-4e52-9664-af633a248982" />
+
 
 ---
 
