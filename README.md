@@ -1,8 +1,6 @@
 # Pr-ctica_Servidor-Coap-en-ESP32-con-ARDUINO-ID
 Instituto Técnologico superior del occidente del Estado de Hidalgo
-<br>
-Evidencias de equipo
-[Evidencias](https://drive.google.com/drive/folders/15O4SZONXACXFswED1CB_16I621au7X_w?usp=drive_link).
+
 # Servidor CoAP en ESP32-C3 (`/sensor` y `/led`)
 
 Práctica de laboratorio en la que una **ESP32-C3** funciona como **servidor CoAP** (RFC 7252) sobre **UDP, puerto 5683**, con dos recursos: `/sensor` (temperatura simulada) y `/led` (control de un LED real). Un cliente en **Python con `aiocoap`** valida la comunicación y el tráfico se analiza con **Wireshark**.
@@ -335,3 +333,6 @@ Todo viaja en texto plano y sin autenticación: cualquier equipo de la red puede
 - Shelby, Z., Hartke, K. y Bormann, C. (2014). *The Constrained Application Protocol (CoAP)*, RFC 7252. IETF.
 - Soto Ortiz, S. I. *Práctica de Laboratorio: Servidor CoAP en ESP32 con Arduino IDE*. Repositorio GitHub ssoto123.
 - Hirotaka Niisato. *CoAP simple library for Arduino*, v1.4.0.
+<br>
+##Evidencias de equipo
+[Evidencias](https://drive.google.com/drive/folders/15O4SZONXACXFswED1CB_16I621au7X_w?usp=drive_link).
