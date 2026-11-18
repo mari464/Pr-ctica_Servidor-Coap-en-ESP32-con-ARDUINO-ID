@@ -333,6 +333,6 @@ Todo viaja en texto plano y sin autenticación: cualquier equipo de la red puede
 - Shelby, Z., Hartke, K. y Bormann, C. (2014). *The Constrained Application Protocol (CoAP)*, RFC 7252. IETF.
 - Soto Ortiz, S. I. *Práctica de Laboratorio: Servidor CoAP en ESP32 con Arduino IDE*. Repositorio GitHub ssoto123.
 - Hirotaka Niisato. *CoAP simple library for Arduino*, v1.4.0.
-<br>
-##Evidencias de equipo
+-- 
+## Evidencias de equipo
 [Evidencias](https://drive.google.com/drive/folders/15O4SZONXACXFswED1CB_16I621au7X_w?usp=drive_link).
